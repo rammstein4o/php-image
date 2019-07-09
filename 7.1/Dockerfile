@@ -1,4 +1,4 @@
-FROM rammstein4o/base-image:0.3.0
+FROM rammstein4o/base-image:0.4.0
 
 ARG PHP_VERSION=7.1
 

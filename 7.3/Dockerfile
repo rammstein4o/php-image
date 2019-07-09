@@ -1,6 +1,6 @@
 FROM rammstein4o/base-image:0.4.0
 
-ARG PHP_VERSION=7.2
+ARG PHP_VERSION=7.3
 
 LABEL maintainer="rado.salov@gmail.com" \
     version="${PHP_VERSION}" \
